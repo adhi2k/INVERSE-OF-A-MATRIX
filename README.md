@@ -16,15 +16,15 @@ End the program
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: Yoga Varuma
-#RegisterNumber: 2305002029
+#Developed by: Adhithya K
+#RegisterNumber: 2305002001
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 B=np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![image](https://github.com/adhi2k/INVERSE-OF-A-MATRIX/assets/145216997/a38c0e8d-6fb3-4c0b-b90e-07d74578cbf8)
+![Screenshot 2024-04-12 175513](https://github.com/adhi2k/INVERSE-OF-A-MATRIX/assets/145216997/75e51bc0-aa7c-4b8e-a4db-79f953942d5c)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
