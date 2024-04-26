@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: MOkesh R
-#RegisterNumber: 2305003015
+#Developed by: Sri Muthazhagan P 
+#RegisterNumber: 2305002024
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 B=np.linalg.inv(A)
